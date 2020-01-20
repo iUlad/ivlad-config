@@ -1,4 +1,4 @@
 message: test config properties
 
 server:
-  port: 5051
+  port: 5052
