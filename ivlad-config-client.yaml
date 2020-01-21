@@ -2,3 +2,8 @@ message: test config properties
 
 server:
   port: 5052
+
+logging:
+  level:
+    org.springframework: DEBUG
+    com.ivlad: DEBUG
