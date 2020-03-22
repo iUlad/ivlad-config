@@ -1,0 +1,7 @@
+server:
+  port: 5051
+
+logging:
+  level:
+    org.springframework: DEBUG
+    com.ivlad: DEBUG
